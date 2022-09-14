@@ -1,0 +1,22 @@
+{
+	"name": "mage2pro/elasticsearch"
+	,"version": "0.0.1"
+	,"description": "It adds new features to the built-in Magento's Elasticsearch module"
+	,"type": "magento2-module"
+	,"homepage": "https://github.com/mage2pro/elasticsearch"
+	,"license": "MIT"
+	,"authors": [{
+		"name": "Dmitry Fedyuk",
+		"email": "admin@mage2.pro",
+		"homepage": "https://www.upwork.com/fl/mage2pro",
+		"role": "Developer"
+	}]
+	,"require": {"magento/module-elasticsearch-7": "*"}
+	,"autoload": {"files": ["registration.php"], "psr-4": {"Dfe\\Elasticsearch\\": ""}}
+	,"keywords": [
+		"eCommerce"
+		,"Magento"
+		,"Magento 2"
+		,"Elasticsearch"
+	]
+}
