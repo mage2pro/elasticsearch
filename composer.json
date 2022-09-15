@@ -1,6 +1,6 @@
 {
 	"name": "mage2pro/elasticsearch"
-	,"version": "0.0.1"
+	,"version": "0.0.2"
 	,"description": "It adds new features to the built-in Magento's Elasticsearch module"
 	,"type": "magento2-module"
 	,"homepage": "https://github.com/mage2pro/elasticsearch"
